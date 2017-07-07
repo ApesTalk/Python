@@ -1,5 +1,5 @@
 # Python
-Python学习，基于Mac环境下。
+Python学习，基于Mac环境下的Python3.x。
 
 # 资料
 
