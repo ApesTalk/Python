@@ -7,4 +7,7 @@ Python学习，基于Mac环境下的Python3.x。
 
 2.[知乎上值得关注的Python大佬](https://zhuanlan.zhihu.com/p/27764105?utm_medium=social&utm_source=qq?utm_medium=social&utm_source=qq)
 
-2.[Python 的练手项目有哪些值得推荐？](https://www.zhihu.com/question/29372574)
+3.[Python 的练手项目有哪些值得推荐？](https://www.zhihu.com/question/29372574)
+
+4.[Python官方第三方库](https://pypi.python.org/pypi)
+
