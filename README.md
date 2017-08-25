@@ -13,3 +13,4 @@ Python学习，基于Mac环境下的Python3.x。
 
 4.[Python官方第三方库](https://pypi.python.org/pypi)
 
+5.[免费的计算机编程类中文书籍](https://github.com/justjavac/free-programming-books-zh_CN)
